@@ -38,7 +38,7 @@ The application empowers citizens to capture real-time visual evidence of hazard
 
 | Deployment Target | Channel | Link |
 | :--- | :--- | :--- |
-| 🌐 **Web Platform** | Live Website | <a href="https://blaagh.vercel.app" target="_blank" rel="noopener noreferrer">**Launch Blaagh Web Platform ↗**</a> |
+| 🌐 **Web Platform** | Live Website | [Launch Blaagh Web Platform ↗ *(Opens in new tab with Ctrl+Click)*](https://blaagh.vercel.app) |
 | 📱 **Android App** | Application (APK) | **[Download Latest APK v1.0 📦](https://github.com/OuassimDev/Blaagh/raw/main/public/downloads/Blaagh.apk)** |
 
 ---
