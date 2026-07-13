@@ -43,7 +43,7 @@ The application empowers citizens to capture real-time visual evidence of hazard
 
 ---
 
-## 👥 The Engineering Team
+## 👥 The Team
 
 Built as a collaborative civic utility by two CS students ([@OuassimDev](https://github.com/OuassimDev) & [@alaee1](https://github.com/alaee1)).
 
