@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajstarks/svgl/main/images/logos/github-icon.svg" width="0" alt="spacing"/>
   <div align="center" style="background: #111827; padding: 35px; border-radius: 24px; display: inline-block; margin-bottom: 20px; border: 1px solid #374151;">
     <img src="/public/icon.png" alt="Blaagh logo" width="160"/>
   </div>
@@ -23,7 +22,7 @@
 
 **Blaagh** is a civic-tech platform built to crowdsource public infrastructure and road damage reporting across Algerian cities. 
 
-The application empowers citizens to capture real-time visual evidence of hazards—such as severe potholes, open manholes, or broken street lighting—and log them directly to a live public map. By eliminating authentication walls, the platform ensures frictionless, instantaneous reporting on the go.
+The application empowers citizens to capture real-time visual evidence of hazards—such as severe potholes, open manholes, or broken street lighting—and log them directly to a live public map.
 
 ### ⚡ Core Capabilities
 * **Frictionless Action:** Zero sign-up or accounts required. Point, snap, and publish.
@@ -39,14 +38,14 @@ The application empowers citizens to capture real-time visual evidence of hazard
 
 | Deployment Target | Channel | Link |
 | :--- | :--- | :--- |
-| 🌐 **Web Platform** | Live Website | **[Launch Blaagh Web Platform ↗](https://blaagh.vercel.app)** |
-| 📱 **Android App** | Application (APK) | **[Download Latest APK v1.0 📦](/public/downloads/Blaagh.apk)** |
+| 🌐 **Web Platform** | Live Website | <a href="https://blaagh.vercel.app" target="_blank" rel="noopener noreferrer">**Launch Blaagh Web Platform ↗**</a> |
+| 📱 **Android App** | Application (APK) | **[Download Latest APK v1.0 📦](https://github.com/OuassimDev/Blaagh/raw/main/public/downloads/Blaagh.apk)** |
 
 ---
 
 ## 👥 The Engineering Team
 
-Built as a collaborative civic utility by a two cs students.
+Built as a collaborative civic utility by two CS students ([@OuassimDev](https://github.com/OuassimDev) & [@alaee1](https://github.com/alaee1)).
 
 ---
 
@@ -55,5 +54,5 @@ Built as a collaborative civic utility by a two cs students.
 This project documentation and public assets are distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 <p align="center" style="margin-top: 40px; color: #6b7280;">
-  Developed to give Algerian infrastructure the visibility it deserves. 🇩🇿
+  • Developed to give Algerian infrastructure the visibility it deserves. 🇩🇿 •
 </p>
