@@ -1,6 +1,6 @@
 <p align="center">
   <div align="center" style="background: #111827; padding: 35px; border-radius: 24px; display: inline-block; margin-bottom: 20px; border: 1px solid #374151;">
-    <img src="/public/icon.png" alt="Blaagh logo" width="160"/>
+    <img src="/public/Blaagh.png" alt="Blaagh logo" width="160"/>
   </div>
 </p>
 
